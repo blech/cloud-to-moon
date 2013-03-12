@@ -1,16 +1,11 @@
-cloud-to-butt
+cloud-to-clown
 =============
 
-Chrome extension that replaces occurrences of 'the cloud' with 'my butt'
+Chrome extension that replaces occurrences of 'the cloud' with 'the clown'
 
-[Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
+[Direct download of crx file](https://github.com/panicsteve/cloud-to-clown/blob/master/CloudToclown.crx?raw=true)
 
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
-
-Safari Version
---------------
-
-Can be found here: https://github.com/logancollins/cloud-to-butt-safari
+In Chrome, choose Window > Extensions.  Drag CloudToclown.crx into the page that appears.
